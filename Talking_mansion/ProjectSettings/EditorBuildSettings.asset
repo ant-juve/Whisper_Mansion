@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/StartMenu.unity
+    guid: a8aa7ba10d9f5457da4bbdc0407fcde7
+  - enabled: 1
+    path: Assets/Scenes/Horror_Mansion/Scenes/Demonstration.unity
+    guid: b07658d982472ec4fbf538e084c3ce88
+  m_configObjects: {}
